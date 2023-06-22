@@ -1,7 +1,11 @@
 # Clean Code Examples
 
-Some code examples with bad and good practices.
+Some code examples with bad and good practices. Names, Functions and Conditionals.
+
+# Article in português
+
+[https://raphaelramos.dev/blog/clean-code/](https://raphaelramos.dev/blog/clean-code/)
 
 # Vídeo explicativo
 
-[![Vídeo sobre Angular standalone components](https://github.com/raphaelramos/cleancode-examples/assets/7671459/fcd37a72-cefc-4924-8b99-dcb033c1e132)](https://www.youtube.com/watch?v=UohXe6ceqeQ)
+[![Vídeo Clean Code Exemplos](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/225w51nng73x5eiu1x1v.png)](https://www.youtube.com/watch?v=UohXe6ceqeQ)
